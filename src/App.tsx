@@ -122,7 +122,7 @@ function App() {
                     </li>
                     <li className="flex items-center gap-2">
                       <Heart className="h-5 w-5 text-[#5046E5]" />
-                      <span>(귀여운 강아지 사진과 함께) "이 친구가 지금 내 상태예요 🥺"</span>
+                      <span>(귀여운 강아지 사진과 함께) "이 친구가 지금 내 상태예요.."</span>
                     </li>
                   </ul>
                 </div>
