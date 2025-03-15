@@ -113,16 +113,16 @@ function App() {
                   <h3 className="font-semibold text-lg mb-2">추천 해결책</h3>
                   <ul className="space-y-3">
                     <li className="flex items-center gap-2">
-                      <Heart className="h-5 w-5 text-pink-500" />
+                      <Heart className="h-5 w-5 text-[#5046E5]" />
                       <span>"여보세요? 고객님? 제 마음속에 계신데요? 여보세요?"</span>
                     </li>
                     <li className="flex items-center gap-2">
-                      <Heart className="h-5 w-5 text-pink-500" />
+                      <Heart className="h-5 w-5 text-[#5046E5]" />
                       <span>"아니 벌써 꿈나라 가신다고요? 내 꿈에 초대장 보냈는데..."</span>
                     </li>
                     <li className="flex items-center gap-2">
-                      <Heart className="h-5 w-5 text-pink-500" />
-                      <span>귀여운 강아지 사진과 함께: "이 친구가 지금 내 상태예요 🥺"</span>
+                      <Heart className="h-5 w-5 text-[#5046E5]" />
+                      <span>(귀여운 강아지 사진과 함께) "이 친구가 지금 내 상태예요 🥺"</span>
                     </li>
                   </ul>
                 </div>
