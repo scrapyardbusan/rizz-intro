@@ -87,7 +87,7 @@ function App() {
                 <div>
                   <h3 className="font-semibold text-lg mb-2">화난 정도</h3>
                   <div className="w-full h-4 bg-gray-100 rounded-full overflow-hidden">
-                    <div className="w-3/5 h-full bg-gradient-to-r from-green-400 to-red-500"></div>
+                    <div className="w-3/5 h-full bg-[#F34164]"></div>
                   </div>
                   <p className="mt-2 text-gray-600">Level 6 - 위험 수준입니다! 🚨</p>
                 </div>
